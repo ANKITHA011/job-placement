@@ -8,7 +8,7 @@ test_job_data = {
     "title": "Software Developer",
     "description": "Develop and maintain software.",
     "location": "Remote",
-    "company": "Gorai Tech",
+    "company": "Intel",
     "salary": 60000
 }
 
